@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js 13 and React Server Components**
 
-- 👨‍💻 All of my projects are available at [tejasvajaitly.com/](tejasvajaitly.com/)
+- 👨‍💻 All of my projects are available at [tejasvajaitly.com](tejasvajaitly.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
