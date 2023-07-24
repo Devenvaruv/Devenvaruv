@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tejasva</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Deven</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Mocha](https://mocha-seven.vercel.app/)
+- 🔭 I’m currently working on [Website](https://devweber.com/)
 
-- 🌱 I’m currently learning **Next.js 13 and React Server Components**
+- 🌱 I’m currently learning **Python and PyTorch**
 
-- 👨‍💻 All of my projects are available at [tejasvajaitly.com](https://www.tejasvajaitly.com/)
+- 👨‍💻 All of my projects are available at [DevWeber.com](https://devweber.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
