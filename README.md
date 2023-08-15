@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deven</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on this my Website.
+- 🔭 I’m currently working on my Website.
 
 - 🌱 I’m currently learning **Python and PyTorch**
 
